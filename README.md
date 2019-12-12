@@ -1,2 +1,3 @@
-# FinalProject_LLiu
-Final Project Repository for Lu Liu
+# cryptocurrency-viz
+Data visualization on opinions towards cryptocurrencies
+https://lulukangaroo.github.io/cryptocurrency-viz/

@@ -1,3 +1,5 @@
-# cryptocurrency-viz
-Data visualization on opinions towards cryptocurrencies
-https://lulukangaroo.github.io/cryptocurrency-viz/
+# Final Project: Cryptocurrency Opinions on Twitter
+Data visualization of Sentiment Analyses on tweets related to Cryptocurrencies
+
+- <a href="https://lulukangaroo.github.io/cryptocurrency-viz/">Visualization</a>
+- <a href="">Write-up</a>
